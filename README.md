@@ -32,7 +32,6 @@ GSE114725/
 │   ├── 03_Subset_Normal_Tumor.R
 │   └── 04_Tumor_vs_Normal_DE.R
 ├── plots/
-├── results/
 └── README.md
 
 ### Data Availability
