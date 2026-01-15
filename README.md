@@ -17,3 +17,5 @@ This repository contains scripts to reproduce and extend the analysis of GSE1147
 ├── README.md
 └── scripts
     └── 01_load_and_create_seurat.R
+    └── 02_QC and Filtering
+
