@@ -34,6 +34,13 @@ GSE114725/
 ├── plots/
 └── README.md
 
+## Tools and Environment
+Operating Environment: Visual Studio Code
+Programming Language: R
+R Version: 4.5.2
+Seurat Version: 5.2.0
+Additional Packages: ggplot2, dplyr, patchwork, tidyverse.
+
 ### Data Availability
 Raw data are available from GEO under accession **GSE114725**. No raw data files are stored in this repository.
 
