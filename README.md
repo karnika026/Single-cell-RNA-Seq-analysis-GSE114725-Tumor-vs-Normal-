@@ -26,20 +26,22 @@ Normalized (log-transformed) expression values are used, following standard Seur
 ## Repository structure
 
 GSE114725/
-├── scripts/
-│   ├── 01_Load_Data.R
-│   ├── 02_QC_Filtering.R
-│   ├── 03_Subset_Normal_Tumor.R
-│   └── 04_Tumor_vs_Normal_DE.R
-├── plots/
-└── README.md
+- ├── scripts/
+- │   ├── 01_Load_Data.R
+- │   ├── 02_QC_Filtering.R
+- │   ├── 03_Subset_Normal_Tumor.R
+- │   └── 04_Tumor_vs_Normal_DE.R
+- ├── plots/
+- └── README.md
 
 ## Tools and Environment
-Operating Environment: Visual Studio Code
-Programming Language: R
-R Version: 4.5.2
-Seurat Version: 5.2.0
-Additional Packages: ggplot2, dplyr, patchwork, tidyverse.
+- Operating Environment: Visual Studio Code
+- Programming Language: R
+- R Version: 4.5.2
+- Seurat Version: 5.2.0
+- Additional Packages: ggplot2, dplyr, patchwork, tidyverse.
+
+
 
 ### Data Availability
 Raw data are available from GEO under accession **GSE114725**. No raw data files are stored in this repository.
